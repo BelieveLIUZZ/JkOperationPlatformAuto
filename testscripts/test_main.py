@@ -18,18 +18,10 @@ class TestMain(unittest.TestCase):
         pass
 
     def test_main(self):
-        self.page.login.input_username('adminer')
-        self.page.login.input_password('123456')
+        self.page.login.input_username('zhangsan')
+        self.page.login.input_password('000000')
         self.page.login.click_submit()
         time.sleep(2)
-
-        # login_page = LoginPage(self.driver)
-        # login_page.input_username('adminer')
-        # login_page.input_password('123456')
-        # login_page.click_submit()
-        # login_page.sleep(2)
-        # login_page.get_wiondows_screen()
-        # login_page.sleep(2)
 
         # try:
         #     self.assertEqual('adminer', self.page.login.is_login_success())

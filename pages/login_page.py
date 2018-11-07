@@ -6,10 +6,6 @@ from base_framework.base_page import BasePage
 class LoginPage(BasePage):
 
     # 元素
-    # username = "xpath=>.//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div[1]/input"
-    # password = "xpath=>.//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input"
-    # submit_btn = "xpath=>.//*[@id='admin']/div/div/div[2]/div/div[2]/div/button"
-    # is_login = "xpath=>.//*[@id='admin']/div/header/div[2]/span/div[2]/span"
     username = "xpath=>.//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div/input"
     password = "xpath=>.//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input"
     submit_btn = "xpath=>.//*[@id='app']/div/div/div[2]/div/div[2]/div/button"

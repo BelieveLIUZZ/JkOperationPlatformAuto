@@ -23,7 +23,7 @@ class TestAnalyze(unittest.TestCase):
     def tearDown(cls):
         cls.driver.quit()
 
-    @parameterized.expand(login_data)  # [(adminer,123456,登录成功),(adminer,000000,密码校验错误)]
+    @parameterized.expand(login_data)
     def test_login(self, number, username, password, expect):
 
         self.page.login.input_username(username)

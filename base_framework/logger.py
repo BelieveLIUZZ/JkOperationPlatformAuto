@@ -40,14 +40,6 @@ class Logger:
         return self.logger
 
 
-
-
-
-
-
-
-
-
 """
 logging日志模块四大组
 日志器	Logger	提供了应用程序可一直使用的接口

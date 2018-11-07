@@ -1,7 +1,0 @@
-2018-10-19 14:16:40,128 - BrowserEngine - INFO - You had select Chrome browser.
-2018-10-19 14:16:40,129 - BrowserEngine - INFO - The test server url is: http://newadmin.dev.cloudh.net.cn/#/login
-2018-10-19 14:16:47,415 - BrowserEngine - INFO - Starting Chrome browser
-2018-10-19 14:16:48,671 - BrowserEngine - INFO - Maximize the current window
-2018-10-19 14:16:54,058 - BrowserEngine - INFO - Open url:http://newadmin.dev.cloudh.net.cn/#/login
-2018-10-19 14:16:54,061 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
-2018-10-19 14:16:54,144 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div/input 

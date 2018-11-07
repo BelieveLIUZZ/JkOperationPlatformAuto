@@ -2,8 +2,6 @@ import os
 import time
 import unittest
 
-from testscripts.test_add import TestAdd
-from testscripts.test_login_analyze import TestAnalyze
 from testscripts.test_path_config import TestPathConfig
 from sys_tools.HTMLTestReportCN import HTMLTestRunner
 

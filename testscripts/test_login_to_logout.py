@@ -21,12 +21,12 @@ class TestLoginToLogout(unittest.TestCase):
     @pytest.mark.flaky(rerun=3)  # 失败重试， rerunfailure
     def test_login_to_logout(self):
 
-        self.page.login.input_username('adminer')
-        self.page.login.input_password('123456')
+        self.page.login.input_username('zhangsan')
+        self.page.login.input_password('000000')
         self.page.login.click_submit()
 
         try:
-            self.assertEqual('adminer', self.page.main.is_login_success())
+            self.assertEqual('zhangsan', self.page.main.is_login_success())
         except Exception as e:
             print('登录失败--%s' % e)
 
