@@ -1,6 +1,15 @@
 # JkOperationPlatformAuto
 JK运营平台自动化测试脚本框架，适用于web项目使用
 
+        ----------------------------------
+        --  参考示例：                    --
+        --      data:                   --
+        --          baidu_search.csv    --
+        --      pages:                  --
+        --          baidu_page.py       --
+        --      testscipts:             --
+        --          test_baidu.py       --
+        ----------------------------------
 
     项目框架内容详解：
             base_framework
