@@ -1,0 +1,15 @@
+{
+  "test_add.py::TestAdd::test_add_1": true,
+  "test_analyze.py::TestAnalyze::test_login_0_adminer": true,
+  "test_dept_manage.py": true,
+  "test_dept_manage.py::TestDeptManagement::test_auto_login": true,
+  "test_dept_manage.py::TestDeptManagement::test_switch_search_0__": true,
+  "test_dept_manage.py::TestDeptManagement::test_switch_search_1__": true,
+  "test_home_login.py::TestAnalyze::test_login_0_0": true,
+  "test_home_login.py::TestAnalyze::test_login_1_1": true,
+  "test_home_login.py::TestAnalyze::test_login_2_2": true,
+  "test_home_login.py::TestAnalyze::test_login_3_3": true,
+  "test_login_analyze.py::TestAnalyze::test_login": true,
+  "test_msg_box.py::TestMsgBox::test_msg_box": true,
+  "test_tt1.py": true
+}

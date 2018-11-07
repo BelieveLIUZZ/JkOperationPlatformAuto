@@ -1,0 +1,6 @@
+2018-09-30 13:58:23,752 - BrowserEngine - INFO - You had select Chrome browser.
+2018-09-30 13:58:23,752 - BrowserEngine - INFO - The test server url is: http://newadmin.test.cloudh.net.cn/#/login
+2018-09-30 13:58:29,623 - BrowserEngine - INFO - Starting Chrome browser
+2018-09-30 13:58:30,768 - BrowserEngine - INFO - Maximize the current window
+2018-09-30 13:58:32,047 - BrowserEngine - INFO - Open url:http://newadmin.test.cloudh.net.cn/#/login
+2018-09-30 13:58:32,050 - BrowserEngine - INFO - Set implicitily wait 10 seconds.

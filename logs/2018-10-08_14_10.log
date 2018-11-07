@@ -1,0 +1,41 @@
+2018-10-08 14:10:26,358 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-08 14:10:26,358 - BrowserEngine - INFO - The test server url is: http://newadmin.test.cloudh.net.cn/#/login
+2018-10-08 14:10:32,770 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-08 14:10:33,917 - BrowserEngine - INFO - Maximize the current window
+2018-10-08 14:10:36,031 - BrowserEngine - INFO - Open url:http://newadmin.test.cloudh.net.cn/#/login
+2018-10-08 14:10:36,033 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-08 14:10:36,079 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div[1]/input 
+2018-10-08 14:10:36,302 - BasePage - INFO - 输入内容：Had type [ %s ] in inputBox" % text
+2018-10-08 14:10:36,343 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-08 14:10:36,477 - BasePage - INFO - 输入内容：Had type [ %s ] in inputBox" % text
+2018-10-08 14:10:36,529 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/button 
+2018-10-08 14:10:37,027 - BasePage - INFO - 截图：Had take a screenshot and save to folder：/screenshots/
+2018-10-08 14:10:40,258 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-08 14:10:40,258 - BrowserEngine - INFO - The test server url is: http://newadmin.test.cloudh.net.cn/#/login
+2018-10-08 14:10:46,286 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-08 14:10:47,403 - BrowserEngine - INFO - Maximize the current window
+2018-10-08 14:10:49,223 - BrowserEngine - INFO - Open url:http://newadmin.test.cloudh.net.cn/#/login
+2018-10-08 14:10:49,225 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-08 14:10:49,293 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div[1]/input 
+2018-10-08 14:10:49,476 - BasePage - INFO - 输入内容：Had type [ %s ] in inputBox" % text
+2018-10-08 14:10:49,515 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-08 14:10:49,660 - BasePage - INFO - 输入内容：Had type [ %s ] in inputBox" % text
+2018-10-08 14:10:49,722 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/button 
+2018-10-08 14:10:50,418 - BasePage - INFO - 截图：Had take a screenshot and save to folder：/screenshots/
+2018-10-08 14:10:52,418 - BasePage - INFO - Sleep for 2 seconds
+2018-10-08 14:10:52,456 - BasePage - INFO - Had find the element [ adminer ] successful by xpath via value: .//*[@id='admin']/div/header/div[2]/span/div[2]/span 
+2018-10-08 14:10:55,619 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-08 14:10:55,619 - BrowserEngine - INFO - The test server url is: http://newadmin.test.cloudh.net.cn/#/login
+2018-10-08 14:11:03,781 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-08 14:11:04,905 - BrowserEngine - INFO - Maximize the current window
+2018-10-08 14:11:06,952 - BrowserEngine - INFO - Open url:http://newadmin.test.cloudh.net.cn/#/login
+2018-10-08 14:11:06,954 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-08 14:11:07,129 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div[1]/input 
+2018-10-08 14:11:07,297 - BasePage - INFO - 输入内容：Had type [ %s ] in inputBox" % text
+2018-10-08 14:11:07,338 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-08 14:11:07,445 - BasePage - INFO - 输入内容：Had type [ %s ] in inputBox" % text
+2018-10-08 14:11:07,494 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='admin']/div/div/div[2]/div/div[2]/div/button 
+2018-10-08 14:11:09,677 - BasePage - INFO - Sleep for 2 seconds
+2018-10-08 14:11:09,954 - BasePage - INFO - 截图：Had take a screenshot and save to folder：/screenshots/
+2018-10-08 14:11:11,954 - BasePage - INFO - Sleep for 2 seconds
+2018-10-08 14:11:11,993 - BasePage - INFO - Had find the element [ adminer ] successful by xpath via value: .//*[@id='admin']/div/header/div[2]/span/div[2]/span 

@@ -1,0 +1,16 @@
+2018-10-19 16:47:19,725 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-19 16:47:19,726 - BrowserEngine - INFO - The test server url is: http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 16:47:25,394 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-19 16:47:26,554 - BrowserEngine - INFO - Maximize the current window
+2018-10-19 16:47:30,274 - BrowserEngine - INFO - Open url:http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 16:47:30,279 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-19 16:47:31,332 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div/input 
+2018-10-19 16:47:31,550 - BasePage - INFO - 输入内容：Had type [ adminer ] in inputBox
+2018-10-19 16:47:31,624 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-19 16:47:31,830 - BasePage - INFO - 输入内容：Had type [ 123456 ] in inputBox
+2018-10-19 16:47:31,907 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/button 
+2018-10-19 16:47:32,710 - BasePage - INFO - Had find the element [ 系统设置 ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/div/span 
+2018-10-19 16:47:32,970 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/ul/li[6]/span 
+2018-10-19 16:47:35,512 - BasePage - INFO - Had find the element [ 新增 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[3]/button 
+2018-10-19 16:47:38,875 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[5]/div/div[2]/form/div[1]/div/div/div/input 
+2018-10-19 16:47:46,191 - BasePage - INFO - Sleep for 3 seconds

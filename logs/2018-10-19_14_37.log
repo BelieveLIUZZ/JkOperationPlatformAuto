@@ -1,0 +1,17 @@
+2018-10-19 14:37:07,660 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-19 14:37:07,660 - BrowserEngine - INFO - The test server url is: http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 14:37:13,184 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-19 14:37:14,308 - BrowserEngine - INFO - Maximize the current window
+2018-10-19 14:37:26,111 - BrowserEngine - INFO - Open url:http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 14:37:26,119 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-19 14:37:26,219 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div/input 
+2018-10-19 14:37:26,562 - BasePage - INFO - 输入内容：Had type [ adminer ] in inputBox
+2018-10-19 14:37:26,645 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-19 14:37:27,088 - BasePage - INFO - 输入内容：Had type [ 123456 ] in inputBox
+2018-10-19 14:37:27,157 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/button 
+2018-10-19 14:37:29,519 - BasePage - INFO - Had find the element [ adminer ] successful by xpath via value: .//*[@id='app']/div/header/div[2]/span/div[2]/span 
+2018-10-19 14:37:29,589 - BasePage - INFO - Had find the element [ 系统设置 ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/div/span 
+2018-10-19 14:37:29,767 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/ul/li[6]/span 
+2018-10-19 14:37:30,659 - BasePage - INFO - Had find the element [ 新增 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[3]/button 
+2018-10-19 14:37:31,200 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[5]/div/div[2]/form/div[1]/div/div/div/input 
+2018-10-19 14:37:34,330 - BasePage - INFO - Sleep for 3 seconds

@@ -1,0 +1,20 @@
+2018-10-19 10:51:42,622 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-19 10:51:42,623 - BrowserEngine - INFO - The test server url is: http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 10:51:48,358 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-19 10:51:49,549 - BrowserEngine - INFO - Maximize the current window
+2018-10-19 10:51:58,242 - BrowserEngine - INFO - Open url:http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 10:51:58,245 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-19 10:51:59,437 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div/input 
+2018-10-19 10:51:59,783 - BasePage - INFO - 输入内容：Had type [ adminer ] in inputBox
+2018-10-19 10:51:59,847 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-19 10:52:00,106 - BasePage - INFO - 输入内容：Had type [ 123456 ] in inputBox
+2018-10-19 10:52:00,176 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/button 
+2018-10-19 10:52:01,028 - BasePage - INFO - Had find the element [ 系统设置 ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/div/span 
+2018-10-19 10:52:01,359 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/ul/li[6]/span 
+2018-10-19 10:52:04,164 - BasePage - INFO - Had find the element [ 新增 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[3]/button 
+2018-10-19 10:52:04,541 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[5]/div/div[2]/form/div[1]/div/div/div/input 
+2018-10-19 10:52:28,823 - BasePage - ERROR - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"xpath","selector":"html/body/div[3]/div[1]/div[1]/ul/li[1]/span"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 10.0.16299 x86_64)
+
+2018-10-19 10:52:29,226 - BasePage - INFO - 截图：Had take a screenshot and save to folder：/screenshots/

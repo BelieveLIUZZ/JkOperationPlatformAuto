@@ -1,0 +1,17 @@
+2018-10-19 11:03:02,788 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-19 11:03:02,789 - BrowserEngine - INFO - The test server url is: http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 11:03:08,096 - BrowserEngine - INFO - Starting Chrome browser
+2018-10-19 11:03:09,252 - BrowserEngine - INFO - Maximize the current window
+2018-10-19 11:03:13,883 - BrowserEngine - INFO - Open url:http://newadmin.dev.cloudh.net.cn/#/login
+2018-10-19 11:03:13,888 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-10-19 11:03:14,972 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[1]/div/div/input 
+2018-10-19 11:03:15,304 - BasePage - INFO - 输入内容：Had type [ adminer ] in inputBox
+2018-10-19 11:03:15,376 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/form/div[2]/div/div/input 
+2018-10-19 11:03:15,659 - BasePage - INFO - 输入内容：Had type [ 123456 ] in inputBox
+2018-10-19 11:03:15,737 - BasePage - INFO - Had find the element [ 登录 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div/div[2]/div/button 
+2018-10-19 11:03:16,685 - BasePage - INFO - Had find the element [ 系统设置 ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/div/span 
+2018-10-19 11:03:17,156 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[1]/ul/li[2]/ul/li[6]/span 
+2018-10-19 11:03:19,690 - BasePage - INFO - Had find the element [ 新增 ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[3]/button 
+2018-10-19 11:03:24,095 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='app']/div/div/div[2]/div[2]/div/div[5]/div/div[2]/form/div[1]/div/div/div/input 
+2018-10-19 11:03:26,280 - BasePage - INFO - Sleep for 2 seconds
+2018-10-19 11:03:35,548 - BasePage - INFO - Had find the element [ 一级分部1 ] successful by xpath via value: html/body/div[3]/div[1]/div[1]/ul/li[1] 
