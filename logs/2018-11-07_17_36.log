@@ -1,0 +1,20 @@
+2018-11-07 17:36:14,954 - BrowserEngine - INFO - You had select Chrome browser.
+2018-11-07 17:36:14,955 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-11-07 17:36:19,994 - BrowserEngine - INFO - Starting Chrome browser
+2018-11-07 17:36:21,121 - BrowserEngine - INFO - Maximize the current window
+2018-11-07 17:36:22,945 - BrowserEngine - INFO - Open url:https://www.baidu.com
+2018-11-07 17:36:22,947 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-11-07 17:36:25,948 - BasePage - INFO - Sleep for 3 seconds
+2018-11-07 17:36:25,995 - BasePage - INFO - Had find the element [  ] successful by id via value: kw 
+2018-11-07 17:36:26,234 - BasePage - INFO - 输入内容：Had type [ selenium ] in inputBox
+2018-11-07 17:36:29,283 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='su'] 
+2018-11-07 17:36:38,651 - BrowserEngine - INFO - You had select Chrome browser.
+2018-11-07 17:36:38,652 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-11-07 17:36:43,941 - BrowserEngine - INFO - Starting Chrome browser
+2018-11-07 17:36:45,065 - BrowserEngine - INFO - Maximize the current window
+2018-11-07 17:36:46,086 - BrowserEngine - INFO - Open url:https://www.baidu.com
+2018-11-07 17:36:46,088 - BrowserEngine - INFO - Set implicitily wait 10 seconds.
+2018-11-07 17:36:49,088 - BasePage - INFO - Sleep for 3 seconds
+2018-11-07 17:36:49,133 - BasePage - INFO - Had find the element [  ] successful by id via value: kw 
+2018-11-07 17:36:49,427 - BasePage - INFO - 输入内容：Had type [ appium ] in inputBox
+2018-11-07 17:36:52,473 - BasePage - INFO - Had find the element [  ] successful by xpath via value: .//*[@id='su'] 
